@@ -459,3 +459,8 @@ body {
 .portfolio-main-div-h2-another-flex {
   margin-bottom: 8px;
 }
+.section {
+  width: 1158px;
+  padding: 0 15px 0 15px;
+  margin: 0 auto;
+}
