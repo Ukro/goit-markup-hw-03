@@ -5,6 +5,7 @@
   --brand-color: #434455; /*???????????????????*/
   --background-color: #f4f4fd;
   --text-color: #2e2f42;
+  --button-color: #e7e9fc;
 }
 
 body {
@@ -414,4 +415,47 @@ body {
 .portfolio-header-adress-ul-flex {
   display: flex;
   gap: 40px;
+}
+
+.portfolio-main-section {
+  padding: 96px 0 120px;
+}
+
+.portfolio-main-ul-flex {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px;
+}
+
+.portfolio-main-button-flex {
+  padding: 12px 24px;
+  border: 1px solid var(--button-color);
+  border-radius: 4px;
+}
+
+.portfolio-main-button-flex:hover,
+.portfolio-main-button-flex:focus {
+  border: 1px solid transparent;
+}
+
+.portfolio-main-ul-another-flex {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
+.portfolio-main-li-another-flex {
+  width: calc((100% - 48px) / 3);
+}
+
+.portfolio-main-li-a-div-another-flex {
+  padding: 32px 16px;
+  border: 1px solid var(--button-color);
+  border-top: none;
+}
+
+.portfolio-main-div-h2-another-flex {
+  margin-bottom: 8px;
 }
