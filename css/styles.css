@@ -250,3 +250,41 @@ body {
 .footer-p {
   color: var(--background-color);
 }
+
+/* hw3 */
+.header-index {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.div-header {
+  display: flex;
+}
+
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.nav-header {
+  display: flex;
+  align-items: center;
+}
+
+.webstudio-one {
+  margin-right: 76px;
+}
+
+.ul-header {
+  display: flex;
+  gap: 40px;
+}
+
+.studio-two {
+  padding: 24px 0;
+}
+
+.addr-flex {
+  display: flex;
+  gap: 40px;
+}
