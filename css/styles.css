@@ -323,3 +323,20 @@ body {
 .strategy-two {
   margin-bottom: 8px;
 }
+
+.section-thre-flex {
+  padding-bottom: 120px;
+}
+
+.section-thre-plus {
+  margin-bottom: 72px;
+}
+
+.section-thre-ul-flex {
+  display: flex;
+  gap: 24px;
+}
+
+.section-thre-li-flex {
+  width: calc((100% - 48px) / 3);
+}
