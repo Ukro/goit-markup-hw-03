@@ -384,3 +384,34 @@ body {
 .footer-p-flex {
   max-width: 264px;
 }
+
+.portfolio-header-flex {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.portfolio-header-div-flex {
+  display: flex;
+}
+
+.portfolio-header-nav-flex {
+  display: flex;
+  align-items: center;
+}
+
+.portfolio-header-a-flex {
+  margin-right: 76px;
+}
+
+.portfolio-header-ul-flex {
+  display: flex;
+  gap: 40px;
+}
+
+.portfolio-header-a-flex {
+  padding: 24px 0;
+}
+
+.portfolio-header-adress-ul-flex {
+  display: flex;
+  gap: 40px;
+}
