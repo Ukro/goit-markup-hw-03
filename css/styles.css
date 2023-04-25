@@ -340,3 +340,34 @@ body {
 .section-thre-li-flex {
   width: calc((100% - 48px) / 3);
 }
+
+.section-four-plus {
+  padding: 120px 0;
+}
+
+.section-four-h-plus {
+  margin-bottom: 72px;
+}
+
+.section-four-ul-flex {
+  display: flex;
+  gap: 24px;
+}
+
+.section-four-li-plus {
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
+}
+
+.section-four-li-div-flex {
+  padding: 32px 16px;
+}
+
+.strategy-two {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.strategy-pargraf-shrift {
+  text-align: center;
+}
