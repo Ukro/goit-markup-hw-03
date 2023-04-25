@@ -288,3 +288,21 @@ body {
   display: flex;
   gap: 40px;
 }
+
+.section-one-plus {
+  padding: 188px 0;
+}
+
+.heder-sectione-one {
+  max-width: 496px;
+}
+
+.button-sectione-one {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+  cursor: pointer;
+}
