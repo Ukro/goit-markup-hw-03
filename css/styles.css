@@ -447,7 +447,7 @@ body {
 }
 
 .portfolio-main-li-another-flex {
-  width: calc((100% - 48px) / 3);
+  width: calc((100% - 20px) / 3);
 }
 
 .portfolio-main-li-a-div-another-flex {
