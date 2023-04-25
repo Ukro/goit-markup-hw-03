@@ -371,3 +371,16 @@ body {
 .strategy-pargraf-shrift {
   text-align: center;
 }
+
+.footer-flex {
+  padding: 100px 0;
+}
+
+.footer-a-flex {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.footer-p-flex {
+  max-width: 264px;
+}
