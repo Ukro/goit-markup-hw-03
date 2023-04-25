@@ -306,3 +306,20 @@ body {
   border-radius: 4px;
   cursor: pointer;
 }
+
+.section-two-flex {
+  padding: 120px 0;
+}
+
+.section-two-ul-flex {
+  display: flex;
+  gap: 24px;
+}
+
+.section-two-li-flex {
+  width: calc((100% - 72px) / 4);
+}
+
+.strategy-two {
+  margin-bottom: 8px;
+}
