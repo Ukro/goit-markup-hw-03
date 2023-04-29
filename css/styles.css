@@ -105,11 +105,11 @@ body {
   font-size: 56px;
   /* or 107% */
 
-  text-align: center;
   letter-spacing: 0.02em;
 
   color: var(--ff-color);
   line-height: 1.07;
+  text-align: center;
 }
 
 .button-sectione-one {
@@ -123,6 +123,8 @@ body {
   cursor: pointer;
 
   background-color: var(--e-five-color);
+
+  text-align: center;
 }
 
 .button-sectione-one:hover,
@@ -143,6 +145,13 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.strategy-pargraf-shrift-name {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
 
 /* section-thre */
@@ -265,6 +274,7 @@ body {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+  text-align: center;
 }
 
 .nav-header {
@@ -370,7 +380,7 @@ body {
 }
 
 .strategy-pargraf-shrift {
-  text-align: center;
+  text-align: left;
 }
 
 .footer-flex {
@@ -469,3 +479,50 @@ body {
   margin: 0 auto;
   padding: 188px 0;
 }*/
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+img {
+  display: block;
+}
+
+address {
+  font-style: normal;
+}
+
+button {
+  cursor: pointer;
+}
+
+.ficha-two {
+  display: none;
+}
+
+.email {
+  margin: 0 0 0 246px;
+}
