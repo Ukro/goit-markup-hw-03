@@ -407,8 +407,7 @@ body {
 
 .footer-p-flex {
   max-width: 264px;
-  line-height: normal;
-  letter-spacing: normal;
+  max-height: 72px;
 }
 
 .portfolio-header-flex {
@@ -535,9 +534,13 @@ button {
 }
 
 .ficha-two {
-  display: none;
+  visibility: hidden;
 }
 
-.email {
-  margin: 0 0 0 332px;
+.our-portfolio {
+  visibility: hidden;
+}
+
+.addr-one {
+  margin-left: auto;
 }
